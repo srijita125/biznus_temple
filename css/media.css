@@ -1,0 +1,353 @@
+/** Start (max-width:376px)**/
+
+@media(max-width:376px) {
+  .container {
+    width: 90%;
+    margin: auto;
+  }
+
+  .logo {
+    float: none;
+  }
+
+  #banner {
+    height: 60vh;
+    width: 100%;
+  }
+
+  .banner-box {
+    padding-top: 10%;
+    width: 100%;
+  }
+
+  .banner-box h1 {
+    font-size: 50px;
+  }
+
+  .banner-box p {
+    font-size: 15px;
+  }
+
+  #middle {
+    padding-top: 30px;
+    padding-bottom: 40px;
+  }
+
+  .left-side {
+    width: 100%;
+    float: none;
+  }
+
+  .right-side {
+    float: none;
+    width: 100%;
+  }
+
+  #grid {
+    height: auto;
+    padding-bottom: 0px;
+  }
+
+  .grid-container {
+    width: 90%;
+    grid-template-columns: auto;
+  }
+
+  .gbox1 {
+    height: auto;
+  }
+
+  .text-box h3{
+    text-align: center;
+    padding: 0;
+    padding-top: 50px;
+  }
+  .button-box p {
+    text-align: center;
+  }
+
+  .button-box {
+    width: 90%;
+    height: auto;
+    padding-top: 20px;
+    padding-bottom: 25px;
+
+  }
+
+  .button-box p {
+    text-align: center;
+  }
+
+  #middle-2 {
+    margin-top: 30px;
+    height: auto;
+  }
+
+  .mid2-txt {
+    padding-top: 20px;
+    float: none;
+    width: 100%;
+    text-align: right
+  }
+
+  .mid2-txt h1 {
+    margin-top: 0;
+    font-size: 35px;
+
+  }
+
+  .mid2-txt p {
+    font-size: 18px;
+    font-weight: 150;
+    line-height: 1.6;
+
+  }
+
+  .mid2-button {
+    margin-bottom: 20px;
+  }
+
+  #middle-3 {
+    height: auto;
+    margin-bottom: 30px;
+    padding-top: 30px
+  }
+
+  .mid3-text h2 {
+    font-size: 35px;
+  }
+
+  .grid2-box1 {
+    height: auto;
+  }
+
+  .grid2-txtbox {
+    margin: 20px;
+    padding-top: 0px;
+  }
+
+  #footer {
+    margin-top: 35px;
+    padding-top: 35px;
+
+    text-align: center;
+    height: auto;
+  }
+
+ 
+  .ft-logo {
+    padding-top: 35px;
+    width: 20%;
+    text-align: center;
+  }
+
+  .social-media {
+    width: 63% !important;
+    margin-right: 2px;
+  }
+
+  .footer-ft {
+    height: auto;
+  }
+  .website {
+    padding: 20px;
+  }
+
+}
+
+
+/** start(max-width:578px)**/
+
+
+@media(max-width:579px) {
+
+  .container {
+    width: 90%;
+    margin: auto;
+    height: auto;
+  }
+
+  .logo {
+    float: none;
+  }
+
+  #banner {
+    height: auto;
+    width:100%;
+  }
+
+  .banner-box{
+    width: 100%;
+    text-align: center;
+  }
+  .banner-box h1{
+    font-size: 50px;
+    width: 100%;
+  }
+
+  .ban-button{
+    width: 125px;
+    height: 34px;
+    margin-bottom: 20px;
+  margin: 30px;
+  }
+  .banner-box p{
+    font-size: 20px;
+  }
+
+
+  .left-side h2{
+    font-size: 40px;
+  }
+
+  .left-side h5{
+    font-size: 25px;
+  }
+  .right-side p{
+    font-size: 18px;
+  }
+
+  #grid {
+    height: auto;
+    padding-bottom: 0px;
+  }
+
+  .grid-container {
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .gbox1 {
+    height: auto;
+    padding-bottom: 20px;
+  }
+  .text-box{
+    height: 400px;
+    padding-right:50px;
+
+  }
+  
+  .button-box{
+    height: auto;
+    padding-top: 26px
+  }
+  .button-box p{
+    font-size: 22px;
+    text-align: center;
+  }
+  .text-box h3{
+    margin: 0px 50px 50px 50px;
+
+  }
+  #middle-2{
+    height: auto;
+    width: 100%;
+    margin-top: 0px;
+
+  }
+  #middle-2 .overlay{
+    padding-top: 20px;
+    padding-bottom: 30px;
+  }
+  .mid2-txt{
+    float: none;
+    width: 90%;
+    margin-top: 20px;
+  }
+
+  .mid2-txt p{
+    font-size: 25px;
+    line-height: 1.5;
+  }
+
+  .mid2-button{
+    width: 225px;
+    height: 55px;
+    font-size: 18px;
+  }
+  #middle-3 {
+    height: auto;
+    margin-bottom: 0px;
+    text-align: center;
+
+
+  }
+  .mid3-text{
+  }
+  .mid3-text h4{
+    font-size: 25px;
+    text-align: center;
+
+  }
+  .mid3-text h2{
+    font-size: 45px;
+  }
+  .grid2-box1 {
+    height: auto;
+  }
+
+  .grid2-txtbox {
+    margin: 20px;
+    padding-top: 0px;
+  }
+
+  #view{
+    padding-top: 50px;
+  }
+  .v-btn{
+    /* margin-left: 35%; */
+    
+  }
+
+  #footer {
+    margin-top: 35px;
+    height: 147px;
+    width: 100%;
+  }
+
+  .ft-logo {
+    padding-top: 35px;
+    width: 35%;
+    float: left;
+  }
+
+  .social-media {
+    width: 45%;
+    padding-top: 42px;
+    margin:2px;
+    height: auto;
+  }
+
+
+  .website {
+    padding: 20px;
+
+}
+}
+/** End(max-width:578px)**/
+
+@media(max-width:768px) {
+  .container{
+    width: 90% !important;
+  }
+
+  .banner-box{
+    padding-top:25% ;
+    width: 80%;
+    margin: auto;
+  }
+  .grid-container{
+    width: 90%;
+    grid-template-columns: 32% 32% 32%;
+  }
+  .text-box h3{
+    width: 90%;
+    font-size: 30px;
+    padding: 80px 12px;
+  }
+  .mid2-txt{
+    margin-top: 100px;
+    width: 70%;
+  }
+}
